@@ -1,0 +1,1 @@
+unlink('t/entities.t');

@@ -1,0 +1,93 @@
+# CHECKSUMS file written on Sun May 28 14:46:08 2006 by CPAN::Checksums (v1.018)
+$cksum = {
+  'WebMod-Debug-1.28.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'cb17c56adf21f7a2992f0e2e1d4684e0',
+    'md5' => 'c0042d4bc100fece04edabc47105f998',
+    'size' => '12114'
+  },
+  'WebMod-Err-1.25.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'f55536640999346cabc19ca23438c48c',
+    'md5' => 'be71ed270fac73205b6d8c5f6d98123c',
+    'size' => '12058'
+  },
+  'WebMod-Proto-1.9.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'c9b822dbab2b83964adfeae603f91716',
+    'md5' => '94e5ab698c7557ea7992592bc777095c',
+    'size' => '13623'
+  },
+  'WebDyne-Install-1.50.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'e2b814269c8c4006b94f68227224f799',
+    'md5' => 'ebef740a8f2d484f6ad936721a22009d',
+    'size' => '17846'
+  },
+  'Bundle-WebMod-Base-1.58.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'a66ef22933f737fca2a355e7f0187be7',
+    'md5' => '74c2991fb4259d645636b90a6e877183',
+    'size' => '11192'
+  },
+  'WebDyne-State-1.3.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'bdd0424e20c281a642c45d964a838fdd',
+    'md5' => 'd280ea002b3def1c67ac1489bdf93218',
+    'size' => '12045'
+  },
+  'WebDyne-Template-1.5.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'd991293cbb901a8696099b2dc91cc473',
+    'md5' => 'eb076232efb16cb325d7f2928b064cca',
+    'size' => '10494'
+  },
+  'WebDyne-Session-1.19.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'f17d648f784d692b5536167d2399bbc0',
+    'md5' => 'f395dcc8be98ecf020d435ef6e0535a1',
+    'size' => '10231'
+  },
+  'WebDyne-Chain-1.28.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => '994a8c5b52c5f5f5efe894e449e7d8b8',
+    'md5' => '8708f7f5494f946d75d79b27de1470f4',
+    'size' => '12400'
+  },
+  'WebDyne-1.93.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => '2127506d783bb9d14ec8e444c07a1b31',
+    'md5' => '310bea4c4934523d26043a001be3d494',
+    'size' => '48696'
+  },
+  'Bundle-WebDyne-Dist-1.26.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => '7f25d9b26f09b4688d548fb6c62d527a',
+    'md5' => '4b55186abfb7f5a8fb5ac422f8e02ba9',
+    'size' => '11435'
+  },
+  'WebMod-Base-1.8.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'ce1b5c765e49b00681643c5e9202703f',
+    'md5' => 'fbd6ec1f77ae89e63e6dbea9135ead92',
+    'size' => '8507'
+  },
+  'WebMod-Log-1.16.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'd354412053f3cd28a70458dc19c32a54',
+    'md5' => '9c59f8847f9a15f435339497ac36bf3a',
+    'size' => '11170'
+  },
+  'WebDyne-Err-1.23.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => '4bae75fc3c6b62249c2eef6b944cba93',
+    'md5' => '61dced08344b1ed4f635f048a2ab225a',
+    'size' => '12201'
+  },
+  'WebMod-Constant-1.15.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'da4267ea95bb0c6ad042f582b9534872',
+    'md5' => '59c6a0065080097bcf23b3d99980ccd1',
+    'size' => '10957'
+  }
+};

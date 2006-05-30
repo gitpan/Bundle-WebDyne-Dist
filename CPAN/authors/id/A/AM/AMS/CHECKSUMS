@@ -1,0 +1,9 @@
+# CHECKSUMS file written on Sun May 28 14:46:07 2006 by CPAN::Checksums (v1.018)
+$cksum = {
+  'Storable-2.15.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'cd5d36a360f05dd655e7f6dc4a71ca1f',
+    'md5' => '9c84640123eea12cfc58c6b5e7060ad8',
+    'size' => '162994'
+  }
+};

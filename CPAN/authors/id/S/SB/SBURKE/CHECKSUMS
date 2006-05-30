@@ -1,0 +1,15 @@
+# CHECKSUMS file written on Sun May 28 14:46:08 2006 by CPAN::Checksums (v1.018)
+$cksum = {
+  'HTML-Tree-3.18.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => '303d2a7528f270d1898079352e4d23b7',
+    'md5' => '6a9e4e565648c9772e7d8ec6d4392497',
+    'size' => '116025'
+  },
+  'HTML-Tagset-3.04.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => '7be5d281191860e55fdfb3dff5b08c82',
+    'md5' => 'b82e0f08c1ececefe98b891f30dd56a6',
+    'size' => '7869'
+  }
+};

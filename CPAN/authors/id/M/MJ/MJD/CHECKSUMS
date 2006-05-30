@@ -1,0 +1,9 @@
+# CHECKSUMS file written on Sun May 28 14:46:07 2006 by CPAN::Checksums (v1.018)
+$cksum = {
+  'Text-Template-1.44.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'bfe2ebd8b247696a1fac86cea3945bff',
+    'md5' => '81a43d284d9c3cdb2b28e104c1c18609',
+    'size' => '43481'
+  }
+};

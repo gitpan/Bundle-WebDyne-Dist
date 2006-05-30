@@ -1,0 +1,9 @@
+# CHECKSUMS file written on Sun May 28 14:46:07 2006 by CPAN::Checksums (v1.018)
+$cksum = {
+  'BerkeleyDB-0.27.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'c2ed815b12787fc399b64620faf541fd',
+    'md5' => '43aa72c0c6941af0d656d749ad543e96',
+    'size' => '155551'
+  }
+};

@@ -1,0 +1,9 @@
+# CHECKSUMS file written on Sun May 28 14:46:08 2006 by CPAN::Checksums (v1.018)
+$cksum = {
+  'CGI.pm-3.10.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => '785322b2284fa255bcb234b0b12d475a',
+    'md5' => '63dc6621ebee69ec241cd5d86875714f',
+    'size' => '225718'
+  }
+};

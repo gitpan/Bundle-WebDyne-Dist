@@ -1,0 +1,9 @@
+# CHECKSUMS file written on Sun May 28 14:46:08 2006 by CPAN::Checksums (v1.018)
+$cksum = {
+  'libnet-1.19.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => '2d26ba85023a5d70e436da303cb94c2e',
+    'md5' => 'e6533ef83a2497562418a2239bb44602',
+    'size' => '64835'
+  }
+};

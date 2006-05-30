@@ -1,0 +1,9 @@
+# CHECKSUMS file written on Sun May 28 14:46:08 2006 by CPAN::Checksums (v1.018)
+$cksum = {
+  'Time-HiRes-1.87.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'f7c24eefd80f736cabff37a3a128e64d',
+    'md5' => 'e13b46ba34c0a639fda829ab0c184761',
+    'size' => '69102'
+  }
+};

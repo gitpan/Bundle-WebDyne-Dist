@@ -1,0 +1,39 @@
+# CHECKSUMS file written on Sun May 28 14:46:08 2006 by CPAN::Checksums (v1.018)
+$cksum = {
+  'Digest-1.12.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'b00e96dfb34350794d5ffe6a5ebee767',
+    'md5' => '3ad71be6911372a62b2044761ed94be2',
+    'size' => '7189'
+  },
+  'HTML-Parser-3.51.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => '117ab289431a0c732cb6ba30001b2798',
+    'md5' => '4189959d60549afa9a7636f5efafbe20',
+    'size' => '83758'
+  },
+  'MIME-Base64-3.05.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'c0d0465488fd1308e69357818434c016',
+    'md5' => 'ee34bc1929034ac50acaffd8218aafa6',
+    'size' => '15643'
+  },
+  'URI-1.35.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => '38339ae2d82f97ca66e625a2281be8e9',
+    'md5' => '1a933b1114c41a25587ee59ba8376f7c',
+    'size' => '96050'
+  },
+  'libwww-perl-5.803.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => 'f62ee07c2c2807b96729ef81f49161c2',
+    'md5' => '3345d5f15a4f42350847254141725c8f',
+    'size' => '234773'
+  },
+  'Digest-MD5-2.33.tar.gz' => {
+    'mtime' => '2006-05-28',
+    'md5-ungz' => '5ef5c5735ce334ad80a0f60ffc908f4e',
+    'md5' => 'f9631d075f271f44cdfadf6b3dfa8b38',
+    'size' => '44224'
+  }
+};

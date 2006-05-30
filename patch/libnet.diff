@@ -1,0 +1,18 @@
+diff -N -u -r libnet-1.12.org/libnet.cfg libnet-1.12/libnet.cfg
+--- libnet-1.12.org/libnet.cfg	Thu Jan  1 09:30:00 1970
++++ libnet-1.12/libnet.cfg	Fri Dec  6 00:48:53 2002
+@@ -0,0 +1,14 @@
++{
++	'ftp_int_passive' => 0,
++	'snpp_hosts' => [qw(test)],
++	'inet_domain' => undef,
++	'test_exist' => 1,
++	'ftp_testhost' => undef,
++	'daytime_hosts' => [],
++	'ph_hosts' => [],
++	'time_hosts' => [],
++	'smtp_hosts' => [],
++	'test_hosts' => 1,
++	'nntp_hosts' => [],
++	'pop3_hosts' => [],
++}
